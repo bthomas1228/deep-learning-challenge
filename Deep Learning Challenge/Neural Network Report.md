@@ -17,7 +17,7 @@ Results
 Following is a description of the changes made to the neural network parameters in an attempt to optimize the model and increase accuracy scores. 3 attempts at optimization were made (Attempts 2-4) after the initial attempt.
 * First Attempt: This was a rerun of the model created in the preprocessing step. It used 43 input features (based on the shape of the model), 2 hidden layers including 5 nodes each and both hidden layers run as relu activation functions with an output layer that used a sigmoid activation function. Even though this was a copy of the original model, the accuracy decreased from 62% to 45% which can happen when models are rerun.
 
-![alt text](image-2.png)
+https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/Visualizations/Attempt%201_model.png
 
 * Second Attempt: The nodes in the hidden layer 1 were increased from 5 to 8. This increased the accuracy from 45% to 69.75%.  
 
