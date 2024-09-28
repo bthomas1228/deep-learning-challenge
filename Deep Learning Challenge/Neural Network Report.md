@@ -21,7 +21,7 @@ https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning
 
 * Second Attempt: The nodes in the hidden layer 1 were increased from 5 to 8. This increased the accuracy from 45% to 69.75%.  
 
-![alt text](image-3.png)
+https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/Visualizations/Attempt%202_model.png
 
 * Third Attempt: Given the increase in accuracy associated with increasing nodes, the number of nodes in hidden layer 1 was increased further to 16 and the nodes in hidden layer 2 were increased to 8. The accuracy of the model remained the same at 69.6%.
 
