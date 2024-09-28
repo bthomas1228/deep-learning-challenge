@@ -25,7 +25,7 @@ https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning
 
 * Third Attempt: Given the increase in accuracy associated with increasing nodes, the number of nodes in hidden layer 1 was increased further to 16 and the nodes in hidden layer 2 were increased to 8. The accuracy of the model remained the same at 69.6%.
 
-![alt text](image-4.png)
+https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/Visualizations/Attempt%203_model.png
 
 * Attempt 4: The nodes in hidden layer 1 were kept at 16 but the nodes in hidden layer 2 were reduced given that this didn't seem to add value. The activation function of the second layer was changed from relu to sigmoid and more epochs were added (from 50 to 100). The accuracy decreased to 60%. 
 
