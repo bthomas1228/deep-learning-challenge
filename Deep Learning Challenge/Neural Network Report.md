@@ -29,7 +29,7 @@ https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning
 
 * Attempt 4: The nodes in hidden layer 1 were kept at 16 but the nodes in hidden layer 2 were reduced given that this didn't seem to add value. The activation function of the second layer was changed from relu to sigmoid and more epochs were added (from 50 to 100). The accuracy decreased to 60%. 
 
-![alt text](image-5.png)
+[![alt text](https://github.com/bthomas1228/deep-learning-challenge/blob/main/Deep%20Learning%20Challenge/Visualizations/Attempt%204%20_model.png)
 
 # Summary
 Overall the best model was attempt 2. Future iterations could add more hidden layers or create different cutoffs to the classification or application type data to see if these increase the accuracy. The kerastuner could also be used and allow it to decide which activation function to use in hidden layers, the number of neurons in the first layer and the number of hidden layers to use. I would recommend this approach as my attempts were approaching the desired 75% accuracy which with a little tweaking could be achieved.
